@@ -50,8 +50,20 @@ and open the template in the editor.
                                 "targetDiv": "mainContainer"
                             },
                             {
-                                "id": "listaUsuariosId",
-                                "Texto": "Lista de Usuarios",
+                                "id": "noticiasId",
+                                "Texto": "Noticias",
+                                "loadPage": "",
+                                "targetDiv": ""
+                            },
+                            {
+                                "id": "contactoId",
+                                "Texto": "Contacto",
+                                "loadPage": "",
+                                "targetDiv": ""
+                            },
+                            {
+                                "id": "loginId",
+                                "Texto": "Login",
                                 "loadPage": "",
                                 "targetDiv": ""
                             }
